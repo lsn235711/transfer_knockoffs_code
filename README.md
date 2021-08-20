@@ -1,5 +1,5 @@
 # Transfer learning in genome-wide association studies with knockoffs
-This repository contains the code to reproduce the numerical results in Li, Ren, Sabatti, and Sesia (2021).
+This repository contains the code to reproduce the numerical results in Li, Ren, Sabatti, and Sesia (2021). https://arxiv.org/abs/2108.08813
 
 ## Folders
 * numerical_experiments_synthetic_data/: contains the code to reproduce the numerical results in Section 3.1 Numerical Experiments -- Synthetic data. To replicate the experiments, one needs to run the "run-me.sh" file on a computing cluster, and then run the "plot_results.R" file to make the plots. 
@@ -9,3 +9,4 @@ This repository contains the code to reproduce the numerical results in Li, Ren,
 
 ## References
 Shuangning Li, Zhimei Ren, Chiara Sabatti, and Matteo Sesia. <b>Transfer learning in genome-wide association studies with knockoffs</b>. 2021.
+https://arxiv.org/abs/2108.08813
